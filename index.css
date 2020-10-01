@@ -3,6 +3,7 @@ h1{
     text-align: center;
     color: rgb(0, 0, 75);
     text-decoration: underline;
+    font-weight: bold;
 
 }
 
@@ -40,6 +41,7 @@ ul {
   
   li {
     float: right;
+    font-weight: bold;
   }
   
   li a {
